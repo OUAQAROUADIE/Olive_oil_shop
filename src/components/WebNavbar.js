@@ -13,11 +13,11 @@ function WebNavbar() {
                   <Navbar.Toggle aria-controls="navbarCollapse" />
                   <Navbar.Collapse id="navbarCollapse">
                     <Nav className="ml-auto mr-5">
-                      <Nav.Link className='mr-4' href="#footer" style={{ color: "white" }}><h5>HOME</h5></Nav.Link>
-                      <Nav.Link className='mr-4' href="#" style={{ color: "white" }}><h5>About</h5></Nav.Link>
-                      <Nav.Link className='mr-4' href="#" style={{ color: "white" }}><h5>HEALTH BENEFITS</h5></Nav.Link>
-                      <Nav.Link className='mr-4' href="#" style={{ color: "white" }}><h5>SHOP</h5></Nav.Link>
-                      <Nav.Link className='mr-4' href="#" style={{ color: "white" }}><h5>CONTACT</h5></Nav.Link>
+                      <Nav.Link className='mr-4' href="#footer" style={{ color: "white" }}><h6>HOME</h6></Nav.Link>
+                      <Nav.Link className='mr-4' href="#" style={{ color: "white" }}><h6>About</h6></Nav.Link>
+                      <Nav.Link className='mr-4' href="#" style={{ color: "white" }}><h6>HEALTH BENEFITS</h6></Nav.Link>
+                      <Nav.Link className='mr-4' href="#" style={{ color: "white" }}><h6>SHOP</h6></Nav.Link>
+                      <Nav.Link className='mr-4' href="#" style={{ color: "white" }}><h6>CONTACT</h6></Nav.Link>
 
 
                     </Nav>

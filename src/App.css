@@ -32,3 +32,43 @@ align-items: center;
 .titles{
   text-align: left;
 }
+
+/*Partie 2 Page_Home ////////////////*/
+
+.card_home{
+  width: 200px;
+  height: 200px;
+}
+.Partie_2_Home{
+  height: 700px;
+}
+.cards{
+  margin-left: 11%;
+  margin-right: 10%;
+}
+.title_Card{
+  font-family: "Imprint MT Shadow", serif;
+  color: #3F7132;
+  margin-top: 10%;
+
+}
+
+/*Partie 2 Page_Home ////////////////*/
+.Partie_3_Home{
+  background-color: #F6EDD4;
+  height: 450px;
+  justify-content: space-around;
+align-items: center;
+}
+.desc_part3{
+  max-width: 600px;
+}
+.title_part3{
+  font-family: "Imprint MT Shadow", serif;
+  color: #3F7132;
+
+}
+.img_part3{
+  height: 480px;
+  margin-bottom: 10%;
+}
